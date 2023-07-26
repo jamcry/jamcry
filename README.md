@@ -4,4 +4,4 @@
 - 📍 Located in Barcelona, Spain
 - 🧰 Experience in React with Typescript, Sass, Webpack, NodeJS and related technologies
 - ℹ️ More details: [LinkedIn](https://linkedin.com/in/cem-kiray)
-- [📧 Send me an email](mailto:contact@cemkkiray.com)
+- [📧 Send me an email](mailto:contact@cemkiray.com)
